@@ -152,9 +152,11 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 
 ### HCS: A Hybrid Data Security Enhancing Model Based on Cryptography Algorithms
 
-#### Publication Journal: Springer
+<br>
 
-#### Status: Presented at Conference, In-queue to be published
+> #### Publication Journal: Springer
+
+> #### Status: Presented at Conference, In-queue to be published
 
 </summary>
 
@@ -247,6 +249,7 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 <summary>
 
 ### ANALYZING AND EVALUATING IoT PLATFORMS FOR SMART CITIES
+
 
 #### Publication Journal: Taylor and Francis Publications
 
