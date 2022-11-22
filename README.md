@@ -46,6 +46,7 @@ Here are some ideas to get you started:
         <li><a href="#deloitte-usi">Deloitte USI</a></li>
       </ul>
     </li>
+    <li><a href="#certifications">Certifications</a></li>
     <li>
       <a href="#Research-and-Publications">Research and Publications</a>
       <ul>
@@ -66,7 +67,6 @@ Here are some ideas to get you started:
         </li>
       </ul>
     </li>
-    <li><a href="#certifications">Certifications</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -128,6 +128,21 @@ const Jatin = {
   </ol>
   </p>
   </div>
+<br>
+
+
+## Certifications
+
+Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
+--- | --- | --- | --- | ---
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Security Engineer Associate** | AZ-500 | H736-2347 | Mar 28, 2021
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Developer Associate** | AZ-204 | H717-3092 | Mar 13, 2021
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Solutions Architect Expert** | AZ-304 | H693-3978 | Feb 21, 2021
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: DevOps Engineer Expert** | AZ-400 | H813-4148 | May 16, 2021
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure IoT Developer Specialty** | AZ-220 | I236-9227 | Apr 22, 2022
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Database Administrator Associate** | DP-300 | I094-4717 | Dec 29, 2021
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Data Engineer Associate** | DP-203 | I006-3134 | Oct 24, 2021
+
 <br>
 
 ## Research and Publications
@@ -250,14 +265,3 @@ const Jatin = {
 
 </details>
 
-## Certifications
-
-Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
---- | --- | --- | --- | ---
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Security Engineer Associate** | AZ-500 | H736-2347 | Mar 28, 2021
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Developer Associate** | AZ-204 | H717-3092 | Mar 13, 2021
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Solutions Architect Expert** | AZ-304 | H693-3978 | Feb 21, 2021
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: DevOps Engineer Expert** | AZ-400 | H813-4148 | May 16, 2021
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure IoT Developer Specialty** | AZ-220 | I236-9227 | Apr 22, 2022
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Database Administrator Associate** | DP-300 | I094-4717 | Dec 29, 2021
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Data Engineer Associate** | DP-203 | I006-3134 | Oct 24, 2021
