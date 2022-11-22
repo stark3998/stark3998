@@ -59,6 +59,7 @@ Here are some ideas to get you started:
   </ol>
 </details>
 <br>
+
 ## About Me
 ```javascript
 const Jatin = {
@@ -73,6 +74,7 @@ const Jatin = {
 }
 ```
 <br>
+
 ## Experience
 
 ### Deloitte USI
