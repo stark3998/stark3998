@@ -78,7 +78,7 @@ const Jatin = {
 ## Experience
 
 ### Deloitte USI
-#### Advisory Associate Solution Advisor
+#### Advisory Associate Solution Advisor (Aug'2020 - Present)
 <div>
   <h3>Projects</h3>
   <p>
