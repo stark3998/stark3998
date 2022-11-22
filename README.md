@@ -35,10 +35,7 @@ Here are some ideas to get you started:
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#about-me">About Me</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -55,3 +52,19 @@ Here are some ideas to get you started:
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
+## About Me
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
