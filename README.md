@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 <br>
 
 ## About Me
+
 ```javascript
 const Jatin = {
   pronouns: "he" | "him",
@@ -73,12 +74,15 @@ const Jatin = {
   challenge: "I am doing the #100DaysOfCode challenge focused on python and sql"
 }
 ```
+
 <br>
 
 ## Experience
 
 ### Deloitte USI
+
 #### Advisory Associate Solution Advisor (Aug'2020 - Present)
+
 <div>
   <h3>Projects</h3>
   <p>
@@ -91,7 +95,7 @@ const Jatin = {
       <li>
         Managing Cloud Identity Risk with Azure Active Directory: This involves migrating Client Applications to Authenticate and Authorize using Azure Active Directory
       </li>
-      <li> 
+      <li>
         Data Extraction and Analysis for OnPrem Data Sources: Created an Extract Transform Load (ETL) Workflow using Azure PaaS Services to create a PowerBI Dashboard for client’s overview and easy data analysis.
       </li>
       <li>
@@ -103,10 +107,29 @@ const Jatin = {
 <br>
 
 ## Research and Publications
+
 ### HCS: A Hybrid Data Security Enhancing Model Based on Cryptography Algorithms
+
+#### Publication Journal: Springer
+
 #### Status: In-queue to be published
+
 <div>
+  #### Abstract
   <p>
     Co-authored a paper which focuses on enhancing data security at scale with the help of implementing various cryptographic algorithms. Pan Tompkins Algorithm has been used for QRS detection which predicts the abnormal deflections that lead to the irregular data loss events. The same reports have been used to classify which type of cardiac arrhythmia the patient has using MLP (Multilayer Perceptron) algorithm. Both the Pan Tompkins and MLP were developed using PyCharm (IDE for python).
+  </p>
+</div>
+
+### The Critical Analysis of Digital Forensics role in Offense Investigation
+
+#### Publication Journal: Springer LNEE
+
+#### Status: In-queue to be published
+
+<div>
+  #### Abstract
+  <p>
+    With the advancement in technology, plenty of data is being shared between users using various mediums. And with this excessive data transmission, it needs to be supervised that the data transmitted needs to be secured to maintain the confidentiality and integrity of the data. There is a technique that allows secure data transmission without losing its integrity and classification, and that is Cryptography. In general, Cryptography is about correct encryption, which gives the safe transmission of information and can be interpreted only by a specific source and recipient. For data security, the encryption techniques should meet a set of necessary criteria. This paper proposes new hybrid cryptographic model and its data security comparison on various parameters with existing Cryptography Algorithms AES and DES. The results indicate better performance as compared to existing algorithms.
   </p>
 </div>
