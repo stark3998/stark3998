@@ -16,16 +16,16 @@ Here are some ideas to get you started:
   <img src="https://media-exp1.licdn.com/dms/image/C5603AQFFagn838KRfQ/profile-displayphoto-shrink_800_800/0/1598873940233?e=1674691200&v=beta&t=6UtkzqK3pCZDSyd9IErq4UG8fTg6n8RBzPEXwpAl9C4" width="100" height="100">
   <br>
   <h1>Jatin Madan</h1>
-  <p>Currently working as an Azure Cloud Solutions Architect developing tailored security solutions and managing the Secured Application Development Lifecycle for multiple Fortune 500 clients at Deloitte USI. Leading the DevSecOps implementations for various clients as an Azure Subject Matter Expert</p>
+  <p> An Azure Cloud Solutions Architect developing tailored security solutions and managing the Secured Application Development Lifecycle for multiple Fortune 500 clients at Deloitte USI. I lead the DevSecOps implementations for various clients as an Azure Subject Matter Expert</p>
 </div>
 <br>
 <div id="badges" align ="center">
   <a href="https://www.linkedin.com/in/jatin39/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> &nbsp;
   <a href="https://www.youtube.com/channel/UCBr5dcWxXgJqptb3X6SmZdg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  </a> &nbsp;
   <a href="https://twitter.com/jatumadan">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
