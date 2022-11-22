@@ -30,9 +30,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-[![Twitter: jatumadan](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/jatumadan)
-[![Linkedin: Jatin39](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/jatin39/)
-[![GitHub stark3998](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/stark3998)
 
 <details>
   <summary>Table of Contents</summary>
