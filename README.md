@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <h1>Jatin Madan</h1>
   <p>Currently working as an Azure Cloud Solutions Architect developing tailored security solutions and managing the Secured Application Development Lifecycle for multiple Fortune 500 clients at Deloitte USI. Leading the DevSecOps implementations for various clients as an Azure Subject Matter Expert</p>
 </div>
-<br><br>
+<br>
 <div id="badges" align ="center">
   <a href="https://www.linkedin.com/in/jatin39/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<br>
+<br><br>
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -72,13 +72,28 @@ Here are some ideas to get you started:
 </details>
 <br>
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+
 ## About Me
 
 ```javascript
 const Jatin = {
-  pronouns: "he" | "him",
-  code: [Python, C#, Powershell, Javascript, DJango, SQL, ASP .Net, HTML, CSS, Java],
-  tools: [Git, Kubernetes, Docker, Postman, Burp Suite, Azure DevOps, Azure Cloud, Windows Subsystem for Linux, SQL Server, NPM, SciKit Learn, Terraform, YAML, Pandas, Selenium, Jenkins],
+  pronouns: "He" | "Him",
+  code: ["Python", "C#", "Powershell", "Javascript", "DJango", "SQL", "ASP .Net", "HTML", "CSS", "Java"],
+  tools: ["Git", "Kubernetes", "Docker", "Postman", "Burp Suite", "Azure DevOps", "Azure Cloud", "Windows Subsystem for Linux", "SQL Server", "NPM", "SciKit Learn", "Terraform", "YAML", "Pandas", "Selenium", "Jenkins"],
   architecture: ["microservices", "event-driven", "design system pattern"],
   cloud_PaaS: ["Azure PaaS (Storage Accounts/Function Apps/Web Apps/Event Hubs/Service Bus/Log Analytics)"],
   cloud_IaaS: ["Azure IaaS (Virtual Machine/ Virtual Machine Scale Set/ Azure Kubernetes/Container Instances)"],
