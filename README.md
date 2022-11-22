@@ -38,10 +38,9 @@ Here are some ideas to get you started:
       <a href="#about-me">About Me</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#experience">Experience</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#deloitte-usi">Deloitte USI</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -69,7 +68,7 @@ const Jatin = {
 
 ## Experience
 
-### Deloitte India (Offices of the US)
+### Deloitte USI
 #### Advisory Associate Solution Advisor
 <div>
   <h3>Projects</h3>
