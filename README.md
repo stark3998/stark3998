@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+<br>
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -43,7 +43,14 @@ Here are some ideas to get you started:
         <li><a href="#deloitte-usi">Deloitte USI</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li>
+      <a href="#Research-and-Publications">Research and Publications</a>
+      <ul>
+        <li>
+          <a href="#HCS:-A-Hybrid-Data-Security-Enhancing-Model-Based-on-Cryptography-Algorithms">HCS: A Hybrid Data Security Enhancing Model Based on Cryptography Algorithms</a>
+        </li>
+      </ul>
+    </li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -51,7 +58,7 @@ Here are some ideas to get you started:
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
+<br>
 ## About Me
 ```javascript
 const Jatin = {
@@ -65,7 +72,7 @@ const Jatin = {
   challenge: "I am doing the #100DaysOfCode challenge focused on python and sql"
 }
 ```
-
+<br>
 ## Experience
 
 ### Deloitte USI
@@ -91,3 +98,12 @@ const Jatin = {
   </ol>
   </p>
   </div>
+<br>
+## Research and Publications
+### HCS: A Hybrid Data Security Enhancing Model Based on Cryptography Algorithms
+#### Status: In-queue to be published
+<div>
+  <p>
+    Co-authored a paper which focuses on enhancing data security at scale with the help of implementing various cryptographic algorithms. Pan Tompkins Algorithm has been used for QRS detection which predicts the abnormal deflections that lead to the irregular data loss events. The same reports have been used to classify which type of cardiac arrhythmia the patient has using MLP (Multilayer Perceptron) algorithm. Both the Pan Tompkins and MLP were developed using PyCharm (IDE for python).
+  </p>
+</div>
