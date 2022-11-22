@@ -50,16 +50,16 @@ Here are some ideas to get you started:
           <a href="#hcs-a-hybrid-data-security-enhancing-model-based-on-cryptography-algorithms">HCS - A Hybrid Data Security Enhancing Model Based on Cryptography Algorithms</a>
         </li>
         <li>
-          <a href="#hcs-a-hybrid-data-security-enhancing-model-based-on-cryptography-algorithms">The Critical Analysis of Digital Forensics role in Offense Investigation</a>
+          <a href="#the-critical-analysis-of-digital-forensics-role-in-offense-investigation">The Critical Analysis of Digital Forensics role in Offense Investigation</a>
         </li>
         <li>
-          <a href="#hcs-a-hybrid-data-security-enhancing-model-based-on-cryptography-algorithms">Intelligent and Personalized Factoid Question and Answer System</a>
+          <a href="#intelligent-and-personalized-factoid-question-and-answer-system">Intelligent and Personalized Factoid Question and Answer System</a>
         </li>
         <li>
-          <a href="#hcs-a-hybrid-data-security-enhancing-model-based-on-cryptography-algorithms">Integrating Big Data and Cloud Computing</a>
+          <a href="#integrating-big-data-and-cloud-computing">Integrating Big Data and Cloud Computing</a>
         </li>
         <li>
-          <a href="#hcs-a-hybrid-data-security-enhancing-model-based-on-cryptography-algorithms">ANALYZING AND EVALUATING IoT PLATFORMS FOR SMART CITIES</a>
+          <a href="#analyzing-and-evaluating-iot-platforms-for-smart-cities">ANALYZING AND EVALUATING IoT PLATFORMS FOR SMART CITIES</a>
         </li>
       </ul>
     </li>
