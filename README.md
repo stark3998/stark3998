@@ -153,7 +153,11 @@ const Jatin = {
 </div>
 
 </details>
+
 ---
+
+<details?>
+<summary>
 
 ### The Critical Analysis of Digital Forensics role in Offense Investigation
 
@@ -161,6 +165,8 @@ const Jatin = {
 
 #### Status: Presented at Conference, In-queue to be published
 
+</summary>
+
 <div>
 
 #### Abstract
@@ -170,7 +176,12 @@ const Jatin = {
   </p>
 </div>
 
+</details>
+
 ---
+
+<details>
+<summary>
 
 ### Intelligent and Personalized Factoid Question and Answer System
 
@@ -178,6 +189,8 @@ const Jatin = {
 
 #### Status: Presented at Conference, In-queue to be published
 
+</summary>
+
 <div>
 
 #### Abstract
@@ -187,7 +200,12 @@ const Jatin = {
   </p>
 </div>
 
+</details>
+
 ---
+
+<details>
+<summary>
 
 ### Integrating Big Data and Cloud Computing
 
@@ -195,6 +213,8 @@ const Jatin = {
 
 #### Status: Presented at Conference, In-queue to be published
 
+</summary>
+
 <div>
 
 #### Abstract
@@ -204,7 +224,12 @@ const Jatin = {
   </p>
 </div>
 
+</details>
+
 ---
+
+<details>
+<summary>
 
 ### ANALYZING AND EVALUATING IoT PLATFORMS FOR SMART CITIES
 
@@ -212,6 +237,8 @@ const Jatin = {
 
 #### Status: Presented at Conference, In-queue to be published
 
+</summary>
+
 <div>
 
 #### Abstract
@@ -220,6 +247,8 @@ const Jatin = {
     With the advancement in technology, plenty of data is being shared between users using various mediums. And with this excessive data transmission, it needs to be supervised that the data transmitted needs to be secured to maintain the confidentiality and integrity of the data. There is a technique that allows secure data transmission without losing its integrity and classification, and that is Cryptography. In general, Cryptography is about correct encryption, which gives the safe transmission of information and can be interpreted only by a specific source and recipient. For data security, the encryption techniques should meet a set of necessary criteria. This paper proposes new hybrid cryptographic model and its data security comparison on various parameters with existing Cryptography Algorithms AES and DES. The results indicate better performance as compared to existing algorithms.
   </p>
 </div>
+
+</details>
 
 ## Certifications
 
@@ -232,4 +261,3 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure IoT Developer Specialty** | AZ-220 | I236-9227 | Apr 22, 2022
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Database Administrator Associate** | DP-300 | I094-4717 | Dec 29, 2021
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Data Engineer Associate** | DP-203 | I006-3134 | Oct 24, 2021
-
