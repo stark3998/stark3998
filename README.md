@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 <br><br>
-<details>
+<details open>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -147,7 +147,7 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 
 ## Research and Publications
 
-<details>
+<details open>
 <summary>
 
 ### HCS: A Hybrid Data Security Enhancing Model Based on Cryptography Algorithms
@@ -173,14 +173,16 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 
 ---
 
-<details>
+<details open>
 <summary>
 
 ### The Critical Analysis of Digital Forensics role in Offense Investigation
 
-#### Publication Journal: Springer LNEE
+<br>
 
-#### Status: Presented at Conference, In-queue to be published
+> #### Publication Journal: Springer LNEE
+
+> #### Status: Presented at Conference, In-queue to be published
 
 </summary>
 
@@ -197,14 +199,16 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 
 ---
 
-<details>
+<details open>
 <summary>
 
 ### Intelligent and Personalized Factoid Question and Answer System
 
-#### Publication Journal: IEEE
+<br>
 
-#### Status: Presented at Conference, In-queue to be published
+> #### Publication Journal: IEEE
+
+> #### Status: Presented at Conference, In-queue to be published
 
 </summary>
 
@@ -221,14 +225,16 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 
 ---
 
-<details>
+<details open>
 <summary>
 
 ### Integrating Big Data and Cloud Computing
 
-#### Publication Journal: Taylor and Francis Publications
+<br>
 
-#### Status: Presented at Conference, In-queue to be published
+> #### Publication Journal: Taylor and Francis Publications
+
+> #### Status: Presented at Conference, In-queue to be published
 
 </summary>
 
@@ -245,15 +251,16 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 
 ---
 
-<details>
+<details open>
 <summary>
 
 ### ANALYZING AND EVALUATING IoT PLATFORMS FOR SMART CITIES
 
+<br>
 
-#### Publication Journal: Taylor and Francis Publications
+> #### Publication Journal: Taylor and Francis Publications
 
-#### Status: Presented at Conference, In-queue to be published
+> #### Status: Presented at Conference, In-queue to be published
 
 </summary>
 
@@ -267,4 +274,3 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 </div>
 
 </details>
-
