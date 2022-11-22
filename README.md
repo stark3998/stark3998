@@ -219,4 +219,4 @@ const Jatin = {
 
 Name | Exam Code | Certificate Numer | Date of Achievement
 --- | --- | --- | ---
-**Microsoft Certified: Azure Security Engineer Associate** | AZ-500 | 'H736-2347' | Mar 28, 2021
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) **Microsoft Certified: Azure Security Engineer Associate** | AZ-500 | H736-2347 | Mar 28, 2021
