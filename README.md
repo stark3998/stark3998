@@ -55,14 +55,40 @@ Here are some ideas to get you started:
 
 ## About Me
 ```javascript
-const jatin = {
+const Jatin = {
   pronouns: "he" | "him",
   code: [Python, C#, Powershell, Javascript, DJango, SQL, ASP .Net, HTML, CSS, Java],
   tools: [Git, Kubernetes, Docker, Postman, Burp Suite, Azure DevOps, Azure Cloud, Windows Subsystem for Linux, SQL Server, NPM, SciKit Learn, Terraform, YAML, Pandas, Selenium, Jenkins],
   architecture: ["microservices", "event-driven", "design system pattern"],
   cloud_PaaS: ["Azure PaaS (Storage Accounts/Function Apps/Web Apps/Event Hubs/Service Bus/Log Analytics)"],
   cloud_IaaS: ["Azure IaaS (Virtual Machine/ Virtual Machine Scale Set/ Azure Kubernetes/Container Instances)"],
-  operating_systems: ["Windows", "Windows Server", "Ubuntu 20.04", "Fedora OS", "UNRAID"]
- challenge: "I am doing the #100DaysOfCode challenge focused on python and sql"
+  operating_systems: ["Windows", "Windows Server", "Ubuntu 20.04", "Fedora OS", "UNRAID"],
+  challenge: "I am doing the #100DaysOfCode challenge focused on python and sql"
 }
 ```
+
+## Experience
+
+### Deloitte India (Offices of the US)
+#### Advisory Associate Solution Advisor
+<div>
+  <h3>Projects</h3>
+  <p>
+    <ol>
+      <li>IAM Automation for PaaS Databases and Kubernetes Clusters/Namespaces: This involves creating Azure AD Groups and mapping them to various Roles in PaaS Databases and Kubernetes Services offered by Azure
+      </li>
+      <li>
+        Azure Automated Cloud Assessment Tool - Created a dynamic azure cloud assessment tool that runs through all the resources in a tenant and checks for security configurations and policy rules adapting to multiple Cloud Security Frameworks such as NIST, CIS etc
+      </li>
+      <li>
+        Managing Cloud Identity Risk with Azure Active Directory: This involves migrating Client Applications to Authenticate and Authorize using Azure Active Directory
+      </li>
+      <li> 
+        Data Extraction and Analysis for OnPrem Data Sources: Created an Extract Transform Load (ETL) Workflow using Azure PaaS Services to create a PowerBI Dashboard for client’s overview and easy data analysis.
+      </li>
+      <li>
+        Azure Resource Security Configuration Automation – Developed a tool to ensure that all the resources in an azure tenant are always compliant with the desired state configuration.
+      </li>
+  </ol>
+  </p>
+  </div>
