@@ -132,11 +132,16 @@ const Jatin = {
 
 ## Research and Publications
 
+<details>
+<summary>
+
 ### HCS: A Hybrid Data Security Enhancing Model Based on Cryptography Algorithms
 
 #### Publication Journal: Springer
 
 #### Status: Presented at Conference, In-queue to be published
+
+</summary>
 
 <div>
 
@@ -147,6 +152,7 @@ const Jatin = {
   </p>
 </div>
 
+</details>
 ---
 
 ### The Critical Analysis of Digital Forensics role in Offense Investigation
