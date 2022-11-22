@@ -156,7 +156,7 @@ const Jatin = {
 
 ---
 
-<details?>
+<details>
 <summary>
 
 ### The Critical Analysis of Digital Forensics role in Offense Investigation
