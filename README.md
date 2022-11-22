@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#-programming--languages">🔧 Programming Languages</a>
+      <a href="#-programming-languages">Programming Languages</a>
     </li>
     <li>
       <a href="#about-me">About Me</a>
