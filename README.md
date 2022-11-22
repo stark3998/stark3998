@@ -47,7 +47,7 @@ Here are some ideas to get you started:
       <a href="#Research-and-Publications">Research and Publications</a>
       <ul>
         <li>
-          <a href="#hcs:-a-hybrid-data-security-enhancing-model-based-on-cryptography-algorithms">HCS - A Hybrid Data Security Enhancing Model Based on Cryptography Algorithms</a>
+          <a href="#Research-and-Publications">HCS - A Hybrid Data Security Enhancing Model Based on Cryptography Algorithms</a>
         </li>
       </ul>
     </li>
