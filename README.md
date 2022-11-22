@@ -66,7 +66,7 @@ Here are some ideas to get you started:
         </li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#certifications">Certifications</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -214,3 +214,9 @@ const Jatin = {
     With the advancement in technology, plenty of data is being shared between users using various mediums. And with this excessive data transmission, it needs to be supervised that the data transmitted needs to be secured to maintain the confidentiality and integrity of the data. There is a technique that allows secure data transmission without losing its integrity and classification, and that is Cryptography. In general, Cryptography is about correct encryption, which gives the safe transmission of information and can be interpreted only by a specific source and recipient. For data security, the encryption techniques should meet a set of necessary criteria. This paper proposes new hybrid cryptographic model and its data security comparison on various parameters with existing Cryptography Algorithms AES and DES. The results indicate better performance as compared to existing algorithms.
   </p>
 </div>
+
+## Certifications
+
+Name | Exam Code | Certificate Numer | Date of Achievement
+--- | --- | --- | ---
+**Microsoft Certified: Azure Security Engineer Associate** | AZ-500 | 'H736-2347' | Mar 28, 2021
