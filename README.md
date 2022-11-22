@@ -55,16 +55,14 @@ Here are some ideas to get you started:
 
 ## About Me
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+const jatin = {
+  pronouns: "he" | "him",
+  code: [Python, C#, Powershell, Javascript, DJango, SQL, ASP .Net, HTML, CSS, Java],
+  tools: [Git, Kubernetes, Docker, Postman, Burp Suite, Azure DevOps, Azure Cloud, Windows Subsystem for Linux, SQL Server, NPM, SciKit Learn, Terraform, YAML, Pandas, Selenium, Jenkins],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  cloud_PaaS: ["Azure PaaS (Storage Accounts/Function Apps/Web Apps/Event Hubs/Service Bus/Log Analytics)"],
+  cloud_IaaS: ["Azure IaaS (Virtual Machine/ Virtual Machine Scale Set/ Azure Kubernetes/Container Instances)"],
+  operating_systems: ["Windows", "Windows Server", "Ubuntu 20.04", "Fedora OS", "UNRAID"]
+ challenge: "I am doing the #100DaysOfCode challenge focused on python and sql"
 }
 ```
