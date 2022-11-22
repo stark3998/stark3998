@@ -123,7 +123,7 @@ const Jatin = {
 
 ### The Critical Analysis of Digital Forensics role in Offense Investigation
 
-#### Publication Journal: Springer LNEE
+#### Publication Journal: <span style="color:blue">Springer LNEE</span>
 
 #### Status: In-queue to be published
 
