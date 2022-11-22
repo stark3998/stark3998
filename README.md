@@ -49,6 +49,18 @@ Here are some ideas to get you started:
         <li>
           <a href="#hcs-a-hybrid-data-security-enhancing-model-based-on-cryptography-algorithms">HCS - A Hybrid Data Security Enhancing Model Based on Cryptography Algorithms</a>
         </li>
+        <li>
+          <a href="#hcs-a-hybrid-data-security-enhancing-model-based-on-cryptography-algorithms">The Critical Analysis of Digital Forensics role in Offense Investigation</a>
+        </li>
+        <li>
+          <a href="#hcs-a-hybrid-data-security-enhancing-model-based-on-cryptography-algorithms">Intelligent and Personalized Factoid Question and Answer System</a>
+        </li>
+        <li>
+          <a href="#hcs-a-hybrid-data-security-enhancing-model-based-on-cryptography-algorithms">Integrating Big Data and Cloud Computing</a>
+        </li>
+        <li>
+          <a href="#hcs-a-hybrid-data-security-enhancing-model-based-on-cryptography-algorithms">ANALYZING AND EVALUATING IoT PLATFORMS FOR SMART CITIES</a>
+        </li>
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -112,10 +124,12 @@ const Jatin = {
 
 #### Publication Journal: Springer
 
-#### Status: In-queue to be published
+#### Status: Presented at Conference, In-queue to be published
 
 <div>
-  #### Abstract
+
+#### Abstract
+
   <p>
     Co-authored a paper which focuses on enhancing data security at scale with the help of implementing various cryptographic algorithms. Pan Tompkins Algorithm has been used for QRS detection which predicts the abnormal deflections that lead to the irregular data loss events. The same reports have been used to classify which type of cardiac arrhythmia the patient has using MLP (Multilayer Perceptron) algorithm. Both the Pan Tompkins and MLP were developed using PyCharm (IDE for python).
   </p>
@@ -127,10 +141,63 @@ const Jatin = {
 
 #### Publication Journal: Springer LNEE
 
-#### Status: In-queue to be published
+#### Status: Presented at Conference, In-queue to be published
 
 <div>
-  #### Abstract
+
+#### Abstract
+
+  <p>
+    With the advancement in technology, plenty of data is being shared between users using various mediums. And with this excessive data transmission, it needs to be supervised that the data transmitted needs to be secured to maintain the confidentiality and integrity of the data. There is a technique that allows secure data transmission without losing its integrity and classification, and that is Cryptography. In general, Cryptography is about correct encryption, which gives the safe transmission of information and can be interpreted only by a specific source and recipient. For data security, the encryption techniques should meet a set of necessary criteria. This paper proposes new hybrid cryptographic model and its data security comparison on various parameters with existing Cryptography Algorithms AES and DES. The results indicate better performance as compared to existing algorithms.
+  </p>
+</div>
+
+---
+
+### Intelligent and Personalized Factoid Question and Answer System
+
+#### Publication Journal: IEEE
+
+#### Status: Presented at Conference, In-queue to be published
+
+<div>
+
+#### Abstract
+
+  <p>
+    With the advancement in technology, plenty of data is being shared between users using various mediums. And with this excessive data transmission, it needs to be supervised that the data transmitted needs to be secured to maintain the confidentiality and integrity of the data. There is a technique that allows secure data transmission without losing its integrity and classification, and that is Cryptography. In general, Cryptography is about correct encryption, which gives the safe transmission of information and can be interpreted only by a specific source and recipient. For data security, the encryption techniques should meet a set of necessary criteria. This paper proposes new hybrid cryptographic model and its data security comparison on various parameters with existing Cryptography Algorithms AES and DES. The results indicate better performance as compared to existing algorithms.
+  </p>
+</div>
+
+---
+
+### Integrating Big Data and Cloud Computing
+
+#### Publication Journal: Taylor and Francis Publications
+
+#### Status: Presented at Conference, In-queue to be published
+
+<div>
+
+#### Abstract
+
+  <p>
+    With the advancement in technology, plenty of data is being shared between users using various mediums. And with this excessive data transmission, it needs to be supervised that the data transmitted needs to be secured to maintain the confidentiality and integrity of the data. There is a technique that allows secure data transmission without losing its integrity and classification, and that is Cryptography. In general, Cryptography is about correct encryption, which gives the safe transmission of information and can be interpreted only by a specific source and recipient. For data security, the encryption techniques should meet a set of necessary criteria. This paper proposes new hybrid cryptographic model and its data security comparison on various parameters with existing Cryptography Algorithms AES and DES. The results indicate better performance as compared to existing algorithms.
+  </p>
+</div>
+
+---
+
+### ANALYZING AND EVALUATING IoT PLATFORMS FOR SMART CITIES
+
+#### Publication Journal: Taylor and Francis Publications
+
+#### Status: Presented at Conference, In-queue to be published
+
+<div>
+
+#### Abstract
+
   <p>
     With the advancement in technology, plenty of data is being shared between users using various mediums. And with this excessive data transmission, it needs to be supervised that the data transmitted needs to be secured to maintain the confidentiality and integrity of the data. There is a technique that allows secure data transmission without losing its integrity and classification, and that is Cryptography. In general, Cryptography is about correct encryption, which gives the safe transmission of information and can be interpreted only by a specific source and recipient. For data security, the encryption techniques should meet a set of necessary criteria. This paper proposes new hybrid cryptographic model and its data security comparison on various parameters with existing Cryptography Algorithms AES and DES. The results indicate better performance as compared to existing algorithms.
   </p>
