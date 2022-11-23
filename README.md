@@ -130,6 +130,42 @@ const Jatin = {
   </div>
 <br>
 
+## Internships
+
+### Indian Institute of Technology, Mumbai
+
+#### Azure Architect Intern (July'2020 - August'2020)
+
+<div>
+  <h3>Brief</h3>
+  <p>
+    Worked as an Azure Cloud Solutions Architect developing azure cloud-based application solutions and managing the Secured Application Development Lifecycle for IIT Incubated start-ups. Managed the DevSecOps implementations for IIT Bombay Applications and Infrastructure
+  </p>
+</div>
+
+<div>
+  <h3>Projects</h3>
+  <p>
+    <ol>
+      <li>
+        Video Conferencing Architecture Design: Designed the Architecture for an Internal Video Conferencing Solution and deployed the Open-Source Video Calling Platforms -> JITSI and BBB on Azure
+      </li>
+      <li>
+        Single Sign-On Proof-of-Concept Development: Created an architecture for the SSO being used across IIT Bombay Applications
+      </li>
+      <li>
+        Implemented CDN Functionalities for the deployed Storage Accounts
+      </li>
+      <li>
+        Implemented storage account functionalities for file uploads from Lokavidya Apps to Azure Storage Accounts
+      </li>
+      <li>
+        Facilitated the deployments of all virtual machines and web app services to Azure Platform
+      </li>
+  </ol>
+  </p>
+  </div>
+<br>
 
 ## Certifications
 
