@@ -108,6 +108,13 @@ const Jatin = {
 #### Advisory Associate Solution Advisor (Aug'2020 - Present)
 
 <div>
+  <h3>Brief</h3>
+  <p>
+    Currently working as an Azure Cloud Solutions Architect developing tailored security solutions and managing the Secured Application Development Lifecycle for multiple Fortune 500 clients. Leading the DevSecOps implementations for various clients as an Azure Subject Matter Expert
+  </p>
+</div>
+
+<div>
   <h3>Projects</h3>
   <p>
     <ol>
@@ -161,6 +168,90 @@ const Jatin = {
       </li>
       <li>
         Facilitated the deployments of all virtual machines and web app services to Azure Platform
+      </li>
+  </ol>
+  </p>
+  </div>
+<br>
+
+---
+
+### Deloitte India (Offices of the US), Hyderabad
+
+#### Advisory Analyst Intern (January'2020 - April'2020)
+
+<div>
+  <h3>Brief</h3>
+  <p>
+    Worked as a Python and .Net C# Developer for developing multiple automation scripts and solutions
+  </p>
+</div>
+
+<div>
+  <h3>Projects</h3>
+  <p>
+    <ol>
+      <li>
+        Azure Resource Security Configuration Automation – Developed a tool to ensure that all the resources in a tenant are always using the correct configuration
+      </li>
+      <li>
+        Workload Migration to adapt to China’s Data Regulations – Developed a proof of concept to migrate the customer data from public cloud to a China based server to comply with the newly implemented Chinese data protection regulations
+      </li>
+  </ol>
+  </p>
+  </div>
+<br>
+
+---
+
+### Aam Aadmi Party (Delhi Government, INDIA)
+
+#### Django Backend Development Intern (June'2019 - August'2019)
+
+<div>
+  <h3>Brief</h3>
+  <p>
+    Worked as Web Mining Automation and Backend Development Intern for the Delhi Government (Aam Aadmi Party) to help design a reliable solution for organizing community helplines and integrating social media complaints.
+  </p>
+</div>
+
+<div>
+  <h3>Projects</h3>
+  <p>
+    <ol>
+      <li>
+        Social Media Scraping Tool: This involved creating a web scraping tool to fetch data from multiple social media websites (Facebook, WhatsApp, Twitter) to form a single dashboard of all consumer complaints.
+      </li>
+      <li>
+        Backend Development for Delhi Government Internal Management System: This involved creating models and database management for the internal functioning of the Aam Aadmi Party. We developed canonical database designs and converted them into flexible and scalable models for ease of maintenance and reliability,
+      </li>
+  </ol>
+  </p>
+  </div>
+<br>
+
+---
+
+### HPCL – Mittal Energy Limited
+
+#### SAP HANA/ ABAP Developer Intern (April'2018 - July'2018)
+
+<div>
+  <h3>Brief</h3>
+  <p>
+    Worked as an SAP Hana and ABAP Development Intern. Helped develop the Product Management module of SAP at the organization.
+  </p>
+</div>
+
+<div>
+  <h3>Projects</h3>
+  <p>
+    <ol>
+      <li>
+        Social Media Scraping Tool: This involved creating a web scraping tool to fetch data from multiple social media websites (Facebook, WhatsApp, Twitter) to form a single dashboard of all consumer complaints.
+      </li>
+      <li>
+        The aim of the training was to gets a hand-on experience with the Industry 4.0 infrastructure with all its advantages over the previous Industry X.0 infrastructures. Along with the Usage of ERP System SAP software and learning about all its advantages over the manual systems. All the operations of the company can be integrated
       </li>
   </ol>
   </p>
