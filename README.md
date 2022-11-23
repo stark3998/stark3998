@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 </div>
 <br><br>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="92c88312-dc65-42d5-9a4f-6825ec0011f5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <details open>
   <summary>Table of Contents</summary>
   <ol>
