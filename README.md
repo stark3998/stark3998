@@ -407,3 +407,50 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 </div>
 
 </details>
+
+## Volunteer Experience
+
+### Muskurahat Foundation
+
+#### Fundraising Intern (01/06/2022 - 31/07/2022)
+
+> #### Contact: Maitri Joshi, +91 088508 98537, hr@muskurahat.org.in, Ground floor, Sidham Bungalow, Plot No. 97, Prem Lane, Off, Mumbai, Maharashtra - 400093
+
+<div>
+  <p>
+    Helped raise funds for the campaigns being overlooked by the Muskurahat Foundation. Raise awareness in the society about the programmes by door-to-door vists and personal calls.
+  </p>
+</div>
+<br>
+
+---
+
+### Close to my Heart Foundation
+
+#### Event Organizer (01/09/2021 - 31/10/2021)
+
+> #### Contact: Shivani Batra, +91 098119 47501, shivanibatra408@gmail.com, 4013 Anant Vihar Apartment, 1 Lohiya Marg, Civil Lines, Allahbad, Uttar Pradesh - 211001
+
+<div>
+  <p>
+    Organized educational programmes to increase awareness regarding importance of education in childs growth and development. Assisted in organizing and managing fundraisers and rallies  for the organization
+  </p>
+</div>
+<br>
+
+---
+
+### Godhuli Senior Citizens Home
+
+#### Event Coordinator (01/05/2020 - 31/01/2021)
+
+> #### Contact: Mr XYZ, +91 XXXXXXXXX, XXX@XXX.com, Plot no. 7, Pocket 2, Sector 2, Dwarka, Delhi - 110075
+
+<div>
+  <p>
+    Assisted the NGO in organizing events and fundraisers.Managed the event planning and execution by leading a team of 10 volunteers.
+  </p>
+</div>
+<br>
+
+---
