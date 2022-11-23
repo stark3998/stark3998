@@ -5,6 +5,7 @@
   <p> An Azure Cloud Solutions Architect developing tailored security solutions and managing the Secured Application Development Lifecycle for multiple Fortune 500 clients at Deloitte USI. I lead the DevSecOps implementations for various clients as an Azure Subject Matter Expert</p>
 </div>
 <br>
+
 <div id="badges" align ="center">
   <div>
     <a href="https://www.credly.com/badges/92c88312-dc65-42d5-9a4f-6825ec0011f5/public_url">
@@ -342,9 +343,11 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 
 <br>
 
-> #### Publication Journal: Springer
+> #### Publication Journal: Springer LNSS
 
-> #### Status: Presented at Conference, In-queue to be published
+> #### Conference: 4th International Conference On Advances in Information Communication Technology & Computing (17th to 18th December - 2022)
+
+> #### Status: Accepted for Presentation, In-queue to be published
 
 </summary>
 
@@ -370,7 +373,9 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 
 > #### Publication Journal: Springer LNEE
 
-> #### Status: Presented at Conference, In-queue to be published
+> #### Conference: 8th International Conference on Nanoelectronics, Computational Intelligence & Communication Systems(NCCS-2022) (17th to 18th December - 2022)
+
+> #### Status: Accepted for Presentation, In-queue to be published
 
 </summary>
 
@@ -396,6 +401,8 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 
 > #### Publication Journal: IEEE
 
+> #### Conference: IEEE 10th INTERNATIONAL CONFERENCE ON RELIABILITY, INFOCOM TECHNOLOGIES AND OPTIMIZATION (ICRITO'2022) (13th to 14th October - 2022)
+
 > #### Status: Presented at Conference, In-queue to be published
 
 </summary>
@@ -420,9 +427,11 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 
 <br>
 
-> #### Publication Journal: Taylor and Francis Publications
+> #### Publication Book Series: Taylor and Francis Group (CRC PRESS)
 
-> #### Status: Presented at Conference, In-queue to be published
+> #### Book Title: Integration of Cloud Computing with Emerging Technologies: Issues, Challenges, and Practices
+
+> #### Status: Chapter Accepted, In-queue to be published
 
 </summary>
 
@@ -431,7 +440,7 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 #### Abstract
 
   <p>
-    With the advancement in technology, plenty of data is being shared between users using various mediums. And with this excessive data transmission, it needs to be supervised that the data transmitted needs to be secured to maintain the confidentiality and integrity of the data. There is a technique that allows secure data transmission without losing its integrity and classification, and that is Cryptography. In general, Cryptography is about correct encryption, which gives the safe transmission of information and can be interpreted only by a specific source and recipient. For data security, the encryption techniques should meet a set of necessary criteria. This paper proposes new hybrid cryptographic model and its data security comparison on various parameters with existing Cryptography Algorithms AES and DES. The results indicate better performance as compared to existing algorithms.
+    The phrase "big data" emerged in response to the exponential growth of global data as a technology that can store and handle extensive and diverse amounts of data, giving businesses and scientists profound insights into their customers/experiments. Due to cloud computing, big data decentralized mechanisms may be housed in a scalable, fault-tolerant, and dependable environment. The big data computation technique is used in the cloud to improve application consolidation, aggregation of data, and data usage. The most effective approach for complicated computing is cloud computing. Expensive computing gear, specialized space, and software are eliminated using it. The amount of massive data has seen a significant expansion because of cloud computing. Big data management is a difficult and time-consuming process.Big Data is utilized in the decision-making system to uncover valuable, practical inputs for engineering and businesses concealed in the data. Despite its processing limitations, cloud computing has offered computation, networking, and storage capabilities that have assisted in the evolution of big data. This article provides a brief outline of big data implementation, its uses in cloud computing, Cloud computing, and Big data's four pillars—performance, input detail, insights, and reliability and security—that can be leveraged in cloud computing to obtain these benefits at comparably reduced costs. This article also discusses various analytics, the technologies required in linking big data with cloud computing, the difficulties associated with this process, trends in applications of the area, and security considerations. This study also reviews the benefits and drawbacks of employing cloud computing resources to convert big data. It focuses on the connections among big data, cloud computing, storage technologies, and Hadoop technology.
   </p>
 </div>
 
@@ -446,9 +455,11 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 
 <br>
 
-> #### Publication Journal: Taylor and Francis Publications
+> #### Publication Book Series: Taylor and Francis Group (CRC PRESS)
 
-> #### Status: Presented at Conference, In-queue to be published
+> #### Book Title: Integration of Cloud Computing with Emerging Technologies: Issues, Challenges, and Practices
+
+> #### Status: Chapter Accepted, In-queue to be published
 
 </summary>
 
@@ -457,7 +468,7 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 #### Abstract
 
   <p>
-    With the advancement in technology, plenty of data is being shared between users using various mediums. And with this excessive data transmission, it needs to be supervised that the data transmitted needs to be secured to maintain the confidentiality and integrity of the data. There is a technique that allows secure data transmission without losing its integrity and classification, and that is Cryptography. In general, Cryptography is about correct encryption, which gives the safe transmission of information and can be interpreted only by a specific source and recipient. For data security, the encryption techniques should meet a set of necessary criteria. This paper proposes new hybrid cryptographic model and its data security comparison on various parameters with existing Cryptography Algorithms AES and DES. The results indicate better performance as compared to existing algorithms.
+    The continuous spread of Internet of Things (IoT) innovations in every field is opening enormous opportunities for everyone. The most astounding applications of IoT revolve around the Smart Cities that is ceaselessly expanding and developing. Smart City is nothing but the coordination of ICT (Information communication Technologies) as well as IoT into the city management, with the intent of tending to the dramatic development of urbanization and population. It not only improves the standards of living for the citizens of any country but also focuses on reducing the impacts of urban activities on our environment, optimization of resources, building innovative technologies and easy resolutions for the citizens of these smart cities. In this paper provides analysis of IoT and its applications, Indian government initiatives with respect to IoT and smart cities and its architecture. This paper highlights essential components of smart city and attempts to establish relation between IoT and Smart cities, issues and challenges and then future opportunities that this new model bringing in the areas of transportation and mobility, parking, defence, education sector, malls, hospitals, health, industries, waste management.
   </p>
 </div>
 
@@ -509,10 +520,9 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 
 <div>
   <p>
-    Assisted the NGO in organizing events and fundraisers.Managed the event planning and execution by leading a team of 10 volunteers.
+    Assisted the NGO in organizing events and fundraisers. Managed the event planning and execution by leading a team of 10 volunteers.
   </p>
 </div>
 <br>
 
 ---
-n 
