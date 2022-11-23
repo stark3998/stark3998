@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 <br><br>
+
 <details open>
   <summary>Table of Contents</summary>
   <ol>
@@ -76,10 +77,6 @@ Here are some ideas to get you started:
         </li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 <br>
@@ -327,7 +324,7 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 #### Abstract
 
   <p>
-    With the advancement in technology, plenty of data is being shared between users using various mediums. And with this excessive data transmission, it needs to be supervised that the data transmitted needs to be secured to maintain the confidentiality and integrity of the data. There is a technique that allows secure data transmission without losing its integrity and classification, and that is Cryptography. In general, Cryptography is about correct encryption, which gives the safe transmission of information and can be interpreted only by a specific source and recipient. For data security, the encryption techniques should meet a set of necessary criteria. This paper proposes new hybrid cryptographic model and its data security comparison on various parameters with existing Cryptography Algorithms AES and DES. The results indicate better performance as compared to existing algorithms.
+    With the progression in the digital sector, regular utilization of the internet and advancements prompts digital attacks. Digital forensic is performed to collect digital data and examine the suspected evidence found in the framework or on an organization to make it acceptable in court. Digital forensics is a part of forensic science concerned about utilizing digital data delivered, stored, and communicated by pcs as a wellspring of proof in examinations and official actions. This paper comprises of a concise outline of the digital forensics process, trailed by the review of the OSForensics tool, its working, features, and implementation. Also, the difficulties and future extent of digital forensics are discussed in the paper.
   </p>
 </div>
 
@@ -353,7 +350,7 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 #### Abstract
 
   <p>
-    With the advancement in technology, plenty of data is being shared between users using various mediums. And with this excessive data transmission, it needs to be supervised that the data transmitted needs to be secured to maintain the confidentiality and integrity of the data. There is a technique that allows secure data transmission without losing its integrity and classification, and that is Cryptography. In general, Cryptography is about correct encryption, which gives the safe transmission of information and can be interpreted only by a specific source and recipient. For data security, the encryption techniques should meet a set of necessary criteria. This paper proposes new hybrid cryptographic model and its data security comparison on various parameters with existing Cryptography Algorithms AES and DES. The results indicate better performance as compared to existing algorithms.
+    The current era of information technology revolutions needs rapid progress of digital transformation. Question-answer system is one such remarkable intelligent application based on artificial intelligence that analyzes and processes human interactions, either spoken or written. Question-answer systems have been proven a very effective way of providing 24-hour interaction service that is interacting with end-users thru digital devices as if the user is interacting with a real human being. This application has found its major utilization in answering customers’ queries in almost every business ranging from government to non-profit sectors and from very small to large organizations. Many chatbot frameworks are available that are either code-based or interface-based. However, they lack the usefulness of personal touch in communication. Thus, to have better customer interactions in the form of question-answers and improved personalization, this paper proposes a face recognition-based chatbot system utilizing the natural language processing toolkit with python. The proposed method implements a tailored user-centric approach to a simplistic version of the Question-answer system by implementing machine learning models for Face Recognition which rely on Local Binary patterns and HAAR Classifications. The method trains and maintains a unique dataset mapped to each user associated with the user’s biometric identification. This chatbot focuses on speech synthesis and language processing to retrieve queries of each user based on their unique dataset.
   </p>
 </div>
 
