@@ -20,19 +20,31 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div id="badges" align ="center">
-  <a href="https://www.linkedin.com/in/jatin39/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> &nbsp;
-  <a href="https://www.youtube.com/channel/UCBr5dcWxXgJqptb3X6SmZdg">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> &nbsp;
-  <a href="https://twitter.com/jatumadan">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  <div>
+    <a href="https://www.credly.com/badges/92c88312-dc65-42d5-9a4f-6825ec0011f5/public_url">
+      <img src="https://images.credly.com/size/220x220/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="Microsoft Certified: Azure Solutions Architect Expert"/>
+    </a> &nbsp;
+    <a href="https://www.youtube.com/channel/UCBr5dcWxXgJqptb3X6SmZdg">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a> &nbsp;
+    <a href="https://twitter.com/jatumadan">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <br>
+  <div>
+    <a href="https://www.linkedin.com/in/jatin39/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a> &nbsp;
+    <a href="https://www.youtube.com/channel/UCBr5dcWxXgJqptb3X6SmZdg">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a> &nbsp;
+    <a href="https://twitter.com/jatumadan">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
 </div>
 <br><br>
-
-<img src="https://images.credly.com/size/220x220/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"/>
 
 <details open>
   <summary>Table of Contents</summary>
