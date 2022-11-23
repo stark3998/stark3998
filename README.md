@@ -46,6 +46,15 @@ Here are some ideas to get you started:
         <li><a href="#deloitte-usi">Deloitte USI</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#internships">Internships</a>
+      <ul>
+        <li><a href="#indian-institute-of-technology-mumbai">Indian Institute of Technology, Mumbai</a></li>
+        <li><a href="#deloitte-india-offices-of-the-us-hyderabad">Deloitte India (Offices of the US), Hyderabad</a></li>
+        <li><a href="#aam-aadmi-party-delhi-government-india">Aam Aadmi Party (Delhi Government, INDIA)</a></li>
+        <li><a href="#hpcl--mittal-energy-limited">HPCL – Mittal Energy Limited</a></li>
+      </ul>
+    </li>
     <li><a href="#certifications">Certifications</a></li>
     <li>
       <a href="#Research-and-Publications">Research and Publications</a>
