@@ -90,6 +90,12 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) &nbsp;
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+<br>
+
+---
+
+<br>
+
 ## About Me
 
 ```javascript
@@ -104,6 +110,10 @@ const Jatin = {
   challenge: "I am doing the #100DaysOfCode challenge focused on python and sql"
 }
 ```
+
+<br>
+
+---
 
 <br>
 
@@ -141,6 +151,12 @@ const Jatin = {
   </ol>
   </p>
   </div>
+<br>
+
+<br>
+
+---
+
 <br>
 
 ## Internships
@@ -264,6 +280,12 @@ const Jatin = {
   </div>
 <br>
 
+<br>
+
+---
+
+<br>
+
 ## Certifications
 
 Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
@@ -275,6 +297,10 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure IoT Developer Specialty** | AZ-220 | I236-9227 | Apr 22, 2022
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Database Administrator Associate** | DP-300 | I094-4717 | Dec 29, 2021
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Data Engineer Associate** | DP-203 | I006-3134 | Oct 24, 2021
+
+<br>
+
+---
 
 <br>
 
