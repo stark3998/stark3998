@@ -336,6 +336,10 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure IoT Developer Specialty** | AZ-220 | I236-9227 | Apr 22, 2022
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Database Administrator Associate** | DP-300 | I094-4717 | Dec 29, 2021
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Data Engineer Associate** | DP-203 | I006-3134 | Oct 24, 2021
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Network Engineer Associate** | AZ-700 | I483-3372 | Nov 12, 2022
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure AI Fundamentals** | AI-900 | H939-7238 | Aug 14, 2021
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Data Fundamentals** | DP-900 | H752-4066 | Apr 11, 2021
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Fundamentals** | AZ-900 | H628-2974 | Jan 3, 2021
 
 <br>
 
