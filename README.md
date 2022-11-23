@@ -24,12 +24,27 @@ Here are some ideas to get you started:
     <a href="https://www.credly.com/badges/92c88312-dc65-42d5-9a4f-6825ec0011f5/public_url">
       <img src="https://images.credly.com/size/220x220/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="Microsoft Certified: Azure Solutions Architect Expert" width="100" height="100"/>
     </a> &nbsp;
-    <a href="https://www.youtube.com/channel/UCBr5dcWxXgJqptb3X6SmZdg">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <a href="https://www.credly.com/badges/7dd94eb7-6b29-4a57-a97f-049bd5b6c4bb/public_url">
+      <img src="https://images.credly.com/size/220x220/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="Microsoft Certified: DevOps Engineer Expert" width="100" height="100"/>
     </a> &nbsp;
-    <a href="https://twitter.com/jatumadan">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
+    <a href="https://www.credly.com/badges/26cd122f-3967-425b-a4aa-ec60b527ef5a/public_url">
+      <img src="https://images.credly.com/size/220x220/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png" alt="Microsoft Certified: Azure Security Engineer Associate" width="100" height="100"/>
+    </a> &nbsp;
+    <a href="https://www.credly.com/badges/32cd499a-fc06-477f-936b-c8244776afee/public_url">
+      <img src="https://images.credly.com/size/220x220/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="Microsoft Certified: Azure Developer Associate" width="100" height="100"/>
+    </a> &nbsp;
+    <a href="https://www.credly.com/badges/d304ae45-901a-4aa9-ab1d-7a893abb626c/public_url">
+      <img src="https://images.credly.com/size/220x220/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" alt="Microsoft Certified: Azure Data Engineer Associate" width="100" height="100"/>
+    </a> &nbsp;
+    <a href="https://www.credly.com/badges/bb271826-a1c5-4346-8e54-2cfeb50122f3/public_url">
+      <img src="https://images.credly.com/size/220x220/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png" alt="Microsoft Certified: Azure Network Engineer Associate" width="100" height="100"/>
+    </a> &nbsp;
+    <a href="https://www.credly.com/badges/a733ddd5-7695-44fb-8b72-475bd6e36c29/public_url">
+      <img src="https://images.credly.com/size/220x220/images/edc0b0d8-55ec-4dfe-9353-22c1bc4e07e8/azure-database-administrator-associate-600x600.png" alt="Microsoft Certified: Azure Database Administrator Associate" width="100" height="100"/>
+    </a> &nbsp;
+    <a href="https://www.credly.com/badges/075f68ba-fbba-4955-9c12-5b87ad79f28a/public_url">
+      <img src="https://images.credly.com/size/220x220/images/2711b780-c3f1-4678-a9ae-f6c49c379189/specialty-azure-iot-developer-600x600.png" alt="Microsoft Certified: Azure IoT Developer Specialty" width="100" height="100"/>
+    </a> &nbsp;
   </div>
   <br>
   <div>
@@ -514,3 +529,4 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 <br>
 
 ---
+n 
