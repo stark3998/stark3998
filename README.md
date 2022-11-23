@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div id="badges" align ="center">
   <div>
     <a href="https://www.credly.com/badges/92c88312-dc65-42d5-9a4f-6825ec0011f5/public_url">
-      <img src="https://images.credly.com/size/220x220/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="Microsoft Certified: Azure Solutions Architect Expert"/>
+      <img src="https://images.credly.com/size/220x220/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="Microsoft Certified: Azure Solutions Architect Expert" width="100" height="100"/>
     </a> &nbsp;
     <a href="https://www.youtube.com/channel/UCBr5dcWxXgJqptb3X6SmZdg">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
