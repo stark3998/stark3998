@@ -32,6 +32,15 @@
     <a href="https://www.credly.com/badges/075f68ba-fbba-4955-9c12-5b87ad79f28a/public_url">
       <img src="https://images.credly.com/size/220x220/images/2711b780-c3f1-4678-a9ae-f6c49c379189/specialty-azure-iot-developer-600x600.png" alt="Microsoft Certified: Azure IoT Developer Specialty" width="100" height="100"/>
     </a> &nbsp;
+    <a href="https://www.credly.com/badges/c6f59eaa-1176-48ec-b63a-e055c637c594/public_url">
+      <img src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Microsoft Certified: Azure AI Fundamentals" width="100" height="100"/>
+    </a> &nbsp;
+    <a href="https://www.credly.com/badges/bb44ff32-d777-46d3-b465-9c07fa3147ff/public_url">
+      <img src="https://images.credly.com/size/220x220/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Microsoft Certified: Azure Data Fundamentals" width="100" height="100"/>
+    </a> &nbsp;
+    <a href="https://www.credly.com/badges/a08f1a61-3623-4c4f-b81f-af0e3d399525/public_url">
+      <img src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" width="100" height="100"/>
+    </a> &nbsp;
   </div>
   <br>
   <div>
@@ -235,7 +244,7 @@ const Jatin = {
 <div>
   <h3>Brief</h3>
   <p>
-    Worked as a Python and .Net C# Developer for developing multiple automation scripts and solutions
+    Worked as a Python and C# Developer for developing multiple automation scripts and solutions
   </p>
 </div>
 
