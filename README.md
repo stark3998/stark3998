@@ -529,7 +529,7 @@ Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
 
 #### Event Coordinator (01/05/2020 - 31/01/2021)
 
-> #### Contact: Mr XYZ, +91 XXXXXXXXX, XXX@XXX.com, Plot no. 7, Pocket 2, Sector 2, Dwarka, Delhi - 110075
+> #### Contact: Mr Kumarji Jha, +91 9716522526, sops.godhuli@gmail.com, Plot no. 7, Pocket 2, Sector 2, Dwarka, Delhi - 110075
 
 <div>
   <p>
