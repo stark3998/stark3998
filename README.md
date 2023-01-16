@@ -173,6 +173,10 @@ const Jatin = {
   <h3>Projects</h3>
   <p>
     <ol>
+      <li>Establish Automated Technical Controls and Compliance Framework: Defined governance and compliance management process flows for a client migrating to cloud, with a standard operating procedure and a roles and responsibilities segregation
+      </li>
+      <li>Controls and Security Assessment: Performed a Controls Assessment for client’s Azure environment against CIS 1.5 Control Framework and evaluates Security Posture with the help of Azure Security Benchmark v3
+      </li>
       <li>IAM Automation for PaaS Databases and Kubernetes Clusters/Namespaces: This involves creating Azure AD Groups and mapping them to various Roles in PaaS Databases and Kubernetes Services offered by Azure
       </li>
       <li>
