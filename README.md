@@ -1,5 +1,5 @@
 <div align ="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C5603AQFFagn838KRfQ/profile-displayphoto-shrink_800_800/0/1598873940233?e=1674691200&v=beta&t=6UtkzqK3pCZDSyd9IErq4UG8fTg6n8RBzPEXwpAl9C4" width="100" height="100">
+  <img src="https://avatars.githubusercontent.com/u/39112299?v=4" width="100" height="100">
   <br>
   <h1>Jatin Madan</h1>
   <p> An Azure Cloud Solutions Architect developing tailored security solutions and managing the Secured Application Development Lifecycle for multiple Fortune 500 clients at Deloitte USI. I lead the DevSecOps implementations for various clients as an Azure Subject Matter Expert</p>
@@ -140,14 +140,53 @@
 ```javascript
 const Jatin = {
   pronouns: "He" | "Him",
-  code: ["Python", "C#", "Powershell", "Javascript", "DJango", "SQL", "ASP .Net", "HTML", "CSS", "Java"],
-  tools: ["Git", "Kubernetes", "Docker", "Postman", "Burp Suite", "Azure DevOps", "Azure Cloud", "Windows Subsystem for Linux", "SQL Server", "NPM", "SciKit Learn", "Terraform", "YAML", "Pandas", "Selenium", "Jenkins"],
+  code: [
+    "Python",
+    "C#",
+    "Powershell",
+    "Javascript",
+    "DJango",
+    "SQL",
+    "ASP .Net",
+    "HTML",
+    "CSS",
+    "Java",
+  ],
+  tools: [
+    "Git",
+    "Kubernetes",
+    "Docker",
+    "Postman",
+    "Burp Suite",
+    "Azure DevOps",
+    "Azure Cloud",
+    "Windows Subsystem for Linux",
+    "SQL Server",
+    "NPM",
+    "SciKit Learn",
+    "Terraform",
+    "YAML",
+    "Pandas",
+    "Selenium",
+    "Jenkins",
+  ],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  cloud_PaaS: ["Azure PaaS (Storage Accounts/Function Apps/Web Apps/Event Hubs/Service Bus/Log Analytics)"],
-  cloud_IaaS: ["Azure IaaS (Virtual Machine/ Virtual Machine Scale Set/ Azure Kubernetes/Container Instances)"],
-  operating_systems: ["Windows", "Windows Server", "Ubuntu 20.04", "Fedora OS", "UNRAID"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on python and sql"
-}
+  cloud_PaaS: [
+    "Azure PaaS (Storage Accounts/Function Apps/Web Apps/Event Hubs/Service Bus/Log Analytics)",
+  ],
+  cloud_IaaS: [
+    "Azure IaaS (Virtual Machine/ Virtual Machine Scale Set/ Azure Kubernetes/Container Instances)",
+  ],
+  operating_systems: [
+    "Windows",
+    "Windows Server",
+    "Ubuntu 20.04",
+    "Fedora OS",
+    "UNRAID",
+  ],
+  challenge:
+    "I am doing the #100DaysOfCode challenge focused on python and sql",
+};
 ```
 
 <br>
@@ -331,19 +370,19 @@ const Jatin = {
 
 ## Certifications
 
-Cloud | Name | Exam Code | Certificate Numer | Date of Achievement
---- | --- | --- | --- | ---
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Security Engineer Associate** | AZ-500 | H736-2347 | Mar 28, 2021
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Developer Associate** | AZ-204 | H717-3092 | Mar 13, 2021
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Solutions Architect Expert** | AZ-304 | H693-3978 | Feb 21, 2021
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: DevOps Engineer Expert** | AZ-400 | H813-4148 | May 16, 2021
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure IoT Developer Specialty** | AZ-220 | I236-9227 | Apr 22, 2022
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Database Administrator Associate** | DP-300 | I094-4717 | Dec 29, 2021
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Data Engineer Associate** | DP-203 | I006-3134 | Oct 24, 2021
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Network Engineer Associate** | AZ-700 | I483-3372 | Nov 12, 2022
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure AI Fundamentals** | AI-900 | H939-7238 | Aug 14, 2021
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Data Fundamentals** | DP-900 | H752-4066 | Apr 11, 2021
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Fundamentals** | AZ-900 | H628-2974 | Jan 3, 2021
+| Cloud                                                                                                              | Name                                                            | Exam Code | Certificate Numer | Date of Achievement |
+| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- | --------- | ----------------- | ------------------- |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Security Engineer Associate**      | AZ-500    | H736-2347         | Mar 28, 2021        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Developer Associate**              | AZ-204    | H717-3092         | Mar 13, 2021        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Solutions Architect Expert**       | AZ-304    | H693-3978         | Feb 21, 2021        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: DevOps Engineer Expert**                 | AZ-400    | H813-4148         | May 16, 2021        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure IoT Developer Specialty**          | AZ-220    | I236-9227         | Apr 22, 2022        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Database Administrator Associate** | DP-300    | I094-4717         | Dec 29, 2021        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Data Engineer Associate**          | DP-203    | I006-3134         | Oct 24, 2021        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Network Engineer Associate**       | AZ-700    | I483-3372         | Nov 12, 2022        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure AI Fundamentals**                  | AI-900    | H939-7238         | Aug 14, 2021        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Data Fundamentals**                | DP-900    | H752-4066         | Apr 11, 2021        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Fundamentals**                     | AZ-900    | H628-2974         | Jan 3, 2021         |
 
 <br>
 
