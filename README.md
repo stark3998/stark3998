@@ -542,7 +542,7 @@ const Jatin = {
 
 #### Fundraising Intern (01/06/2022 - 31/07/2022)
 
-> #### Contact: Maitri Joshi, +91 088508 98537, hr@muskurahat.org.in, Ground floor, Sidham Bungalow, Plot No. 97, Prem Lane, Off, Mumbai, Maharashtra - 400093
+> #### Contact: hr@muskurahat.org.in, Ground floor, Sidham Bungalow, Plot No. 97, Prem Lane, Off, Mumbai, Maharashtra - 400093
 
 <div>
   <p>
