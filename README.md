@@ -10,7 +10,6 @@
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-jatinmadan.com-0078D4?style=flat-square&logo=google-chrome&logoColor=white)](https://jatinmadan.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin39/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://jatinmadan.com)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBr5dcWxXgJqptb3X6SmZdg)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jatumadan)
 </div>
@@ -218,24 +217,6 @@ Built Azure security and compliance automation:
 
 - Supported deployment of SAP HANA and SAP BTP on Azure with customized modules aligned to organizational requirements
 </details>
-
----
-
-## Certifications
-
-| Cloud                                                                                                              | Name                                                            | Exam Code | Certificate Number | Date of Achievement |
-| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- | --------- | ------------------ | ------------------- |
-| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Security Engineer Associate**      | AZ-500    | H736-2347          | Mar 28, 2021        |
-| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Developer Associate**              | AZ-204    | H717-3092          | Mar 13, 2021        |
-| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Solutions Architect Expert**       | AZ-304    | H693-3978          | Feb 21, 2021        |
-| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: DevOps Engineer Expert**                 | AZ-400    | H813-4148          | May 16, 2021        |
-| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure IoT Developer Specialty**          | AZ-220    | I236-9227          | Apr 22, 2022        |
-| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Database Administrator Associate** | DP-300    | I094-4717          | Dec 29, 2021        |
-| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Data Engineer Associate**          | DP-203    | I006-3134          | Oct 24, 2021        |
-| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Network Engineer Associate**       | AZ-700    | I483-3372          | Nov 12, 2022        |
-| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure AI Fundamentals**                  | AI-900    | H939-7238          | Aug 14, 2021        |
-| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Data Fundamentals**                | DP-900    | H752-4066          | Apr 11, 2021        |
-| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Fundamentals**                     | AZ-900    | H628-2974          | Jan 3, 2021         |
 
 ---
 
