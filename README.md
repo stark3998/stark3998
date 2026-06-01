@@ -4,10 +4,11 @@
 
   # Jatin Madan
 
-  **Cloud Security Senior Consultant | Identity & AI Governance | 11x Microsoft Certified**
+  **Cloud Security Senior Consultant | Enterprise AI Security & Identity Governance | 11x Microsoft Certified**
 
-  Building secure cloud architectures with Entra ID, Azure PaaS/SaaS, Microsoft AI Foundry & Copilot Studio for Fortune 500 clients at Deloitte US.
+  Leading Entra ID modernization, enterprise AI security governance, and agentic solution delivery across Azure, Copilot Studio, Microsoft Foundry, and hybrid identity programs at Deloitte.
 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-jatinmadan.com-0078D4?style=flat-square&logo=google-chrome&logoColor=white)](https://jatinmadan.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin39/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://jatinmadan.com)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBr5dcWxXgJqptb3X6SmZdg)
@@ -63,98 +64,178 @@
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Cloud & IaC** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Identity** | ![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Entra External ID](https://img.shields.io/badge/Entra_External_ID-005BA1?style=flat-square&logo=microsoftazure&logoColor=white) ![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white) |
-| **AI & Copilot** | ![AI Foundry](https://img.shields.io/badge/Microsoft_AI_Foundry-512BD4?style=flat-square&logo=microsoft&logoColor=white) ![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-6264A7?style=flat-square&logo=microsoft&logoColor=white) ![MCP Servers](https://img.shields.io/badge/MCP_Servers-1A1A2E?style=flat-square&logo=microsoft&logoColor=white) |
-| **Security & Governance** | ![Azure Policy](https://img.shields.io/badge/Azure_Policy-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Purview](https://img.shields.io/badge/Microsoft_Purview-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![CIS](https://img.shields.io/badge/CIS-003087?style=flat-square&logoColor=white) ![NIST](https://img.shields.io/badge/NIST-003087?style=flat-square&logoColor=white) |
-| **DevSecOps** | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) |
-| **Data & ML** | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
+| **Identity Platforms** | ![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Entra External ID](https://img.shields.io/badge/Entra_External_ID-005BA1?style=flat-square&logo=microsoftazure&logoColor=white) ![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white) ![Application Proxy](https://img.shields.io/badge/Application_Proxy-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Entra ID Connect](https://img.shields.io/badge/Entra_ID_Connect-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![SAML/OIDC](https://img.shields.io/badge/SAML_/_OIDC-4A154B?style=flat-square&logo=openid&logoColor=white) ![HRD](https://img.shields.io/badge/Home_Realm_Discovery-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| **Security & Governance** | ![Azure Policy](https://img.shields.io/badge/Azure_Policy-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![CIS](https://img.shields.io/badge/CIS-003366?style=flat-square&logo=shield&logoColor=white) ![MCSB](https://img.shields.io/badge/MCSB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![CISA](https://img.shields.io/badge/CISA-003366?style=flat-square&logo=shield&logoColor=white) ![MFA](https://img.shields.io/badge/MFA-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![WAF](https://img.shields.io/badge/WAF-FF6633?style=flat-square&logo=cloudflare&logoColor=white) ![RBAC](https://img.shields.io/badge/RBAC-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Purview](https://img.shields.io/badge/Purview-742774?style=flat-square&logo=microsoft&logoColor=white) |
+| **AI Platforms** | ![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-6264A7?style=flat-square&logo=microsoft&logoColor=white) ![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-512BD4?style=flat-square&logo=microsoft&logoColor=white) ![Agent365](https://img.shields.io/badge/Agent365-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Agent ID](https://img.shields.io/badge/Agent_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-1A1A2E?style=flat-square&logo=microsoft&logoColor=white) |
+| **Cloud & Infrastructure** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![F5](https://img.shields.io/badge/F5_Load_Balancer-E4002B?style=flat-square&logo=f5&logoColor=white) |
+| **Data & Reporting** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Data Lake](https://img.shields.io/badge/Data_Lake-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white) ![Azure SQL](https://img.shields.io/badge/Azure_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **DevSecOps & Automation** | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Security Automation](https://img.shields.io/badge/Security_Automation-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white) |
+| **Frameworks & Libraries** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+---
+
+## Featured Projects
+
+### Enterprise AI Governance Controls
+Built AI security and governance controls for Copilot Studio, Microsoft Foundry, Purview, Agent365, and Agent ID using policy-driven guardrails and configuration baselines.
+
+Designed and implemented enterprise AI governance patterns that translated security and compliance requirements into enforceable Azure Policy and AI platform configuration controls. The solution focused on improving consistency, visibility, and control coverage across emerging AI platforms while creating a repeatable governance model for enterprise adoption.
+
+| Impact | Enforcement | Scale |
+|--------|-------------|-------|
+| Cross-platform AI guardrails | Policy-driven enforcement | Enterprise AI services |
+
+`Azure Policy` `Copilot Studio` `Microsoft Foundry` `Purview` `Agent365` `Agent ID`
+
+---
+
+### Okta to Entra Migration Accelerator
+Built accelerator workflows that copy applications, users, groups, and policies from Okta into Entra ID or Entra External ID to simplify identity provider migration.
+
+Designed a migration accelerator focused on reducing the manual effort and sequencing complexity of identity provider modernization. The accelerator standardized tenant discovery, mapped core identity objects, and enabled more repeatable migration outcomes by carrying applications, users, groups, and policies from Okta into target Entra environments.
+
+| Impact | Performance | Scale |
+|--------|-------------|-------|
+| Reduced migration effort | Accelerated tenant onboarding | Object and policy migration |
+
+`Okta` `Microsoft Entra ID` `Microsoft Entra External ID` `Applications` `Users & Groups` `Policy Mapping`
+
+---
+
+### Agentic Communication Automation
+Deployed agentic solutions that automate stakeholder communication, project coordination, and client updates across Teams and Outlook.
+
+Built agentic workflows to reduce manual communication overhead across active client programs. The solution helped organize status coordination, stakeholder follow-ups, and message routing across Microsoft Teams and Outlook, improving communication consistency and freeing delivery teams from repetitive operational tasks.
+
+| Impact | Performance | Scale |
+|--------|-------------|-------|
+| Reduced manual coordination | Faster stakeholder updates | Multi-project communication |
+
+`Agentic Workflows` `Microsoft Teams` `Outlook` `Python` `Automation` `Operational Orchestration`
+
+> **[View all projects on my portfolio &rarr;](https://jatinmadan.com)**
 
 ---
 
 ## Experience
 
 ### Deloitte &mdash; Cloud Security Senior Consultant
-`Jan 2025 - Present` &nbsp; | &nbsp; Seattle, WA
+`Jan 2025 - Present`
 
-Leading enterprise identity modernization and AI security governance programs for Fortune 500 clients:
+Leading identity modernization, enterprise AI security governance, and cloud control engineering across Microsoft Entra, Azure, and agentic platforms.
 
-- **Okta-to-Entra Migration** &mdash; Led migration of 2,000+ applications from Okta to Microsoft Entra ID, with Power BI dashboards and SharePoint reporting for executive governance
-- **Entra External ID Platform** &mdash; Rolled out JIT migration, MFA, native authentication, WAF, monitoring, and alerting for enterprise user populations
-- **Migration Accelerators** &mdash; Built tooling to copy applications, users, groups, and policies across Entra ID and External ID tenants, streamlining identity modernization
-- **AI Workflow Automation** &mdash; Designed and deployed enterprise automation via Copilot Studio & Microsoft Foundry, supporting 150K+ active users across SharePoint, Outlook, and Teams
-- **AI Security Controls** &mdash; Implemented red-teaming agents, Agent 365, and model/agent guardrails for safe and compliant AI deployment
-- **AI Governance** &mdash; Architected Azure Policy and AI configuration controls for Copilot Studio, Microsoft Foundry, Purview, Teams, and Agent365 to secure agentic workflows
-- **Hybrid Identity Infrastructure** &mdash; Engineered Application Proxy, Entra ID Connect, F5 load balancing, firewall, DNS routing, and HRD policies for seamless authentication
+- **Okta-to-Entra Migration** &mdash; Directed the migration workstream for ~2,000 application instances with Power BI and SharePoint reporting for executive visibility
+- **Entra External ID Rollout** &mdash; Orchestrated migration of applications, users, and groups into a production-ready customer identity platform
+- **Migration Accelerators** &mdash; Designed accelerators to copy applications, users, groups, and policies into Entra ID and Entra External ID tenants
+- **SSO Standardization** &mdash; Standardized SSO and user-flow patterns across SAML, OIDC, and native authentication workloads
+- **External ID Capabilities** &mdash; Delivered JIT migration, native authentication, WAF, monitoring, alerting, and MFA
+- **Hybrid Identity Architecture** &mdash; Architected infrastructure with Application Proxy, Entra ID Connect, F5 load balancing, and DNS routing
+- **AI Governance Controls** &mdash; Built Azure Policy and AI configuration controls for Copilot Studio, Foundry, Purview, Agent365, and Agent ID
+- **Agentic Solutions** &mdash; Deployed automated client communication and project coordination workflows across Teams and Outlook
+- **Security Assessments** &mdash; Produced gap assessments aligned to CIS, MCSB, and CISA with prioritized remediation roadmaps
 
----
+### UC Irvine &mdash; Data and Technology Fellow
+`Jan 2024 - Dec 2024`
 
-### ZS Associates &mdash; Associate Consultant Intern
-`Jun 2024 - Aug 2024` &nbsp; | &nbsp; Philadelphia, PA
+Built an Apple Vision OS application enabling immersive remote development with SSH and VS Code Server.
 
-- **ETL Overhaul** &mdash; Converted 3,000 Parquet tables to Delta tables using Apache Spark and Databricks, leveraging Delta's ACID transactions and scalable metadata handling
-- **Custom Docker Image** &mdash; Built Databricks cluster image with preinstalled packages, reducing cluster runtime by 14% by eliminating runtime installations
-- **Unity Catalog** &mdash; Implemented unified governance in Databricks with ADLS for fine-grained access controls and audit logging
+- Built a Vision OS application with secure SSH connectivity to VS Code Servers in an immersive environment
+- Designed SwiftUI experience balancing usability, responsiveness, and visual clarity
+- Integrated SSH libraries with end-to-end testing for connection reliability
 
----
+### ZS &mdash; Business Technology Solutions Associate Consultant
+`Jun 2024 - Aug 2024`
 
-### University of California, Irvine &mdash; Data & Technology Fellow
-`Sep 2023 - Dec 2024` &nbsp; | &nbsp; Irvine, CA
+Designed Azure data engineering foundations for scalable ETL, analytics, governance, and secrets management.
 
-- **API Gateway** &mdash; Developed malware-scanning file upload gateway using Azure API Management and Azure Functions
-- **Self-Hosted AI** &mdash; Deployed a custom OpenAI chatbot on Azure Kubernetes Service with Azure Cognitive Services and Storage for data security compliance
+- Converted 3,000 Parquet tables to Delta tables using Apache Spark and Databricks, reducing cluster run time by 14%
+- Built a custom Docker image for Databricks clusters with preinstalled packages
+- Established Azure Data Lake foundations and built Azure Data Factory pipelines
+- Implemented Unity Catalog and Azure Key Vault for governance and secrets management
 
----
+### Deloitte &mdash; Advisory Solution Advisor
+`Jun 2023 - Sep 2023`
 
-### Deloitte &mdash; Cyber Security Solution Advisor
-`Aug 2020 - Sep 2023` &nbsp; | &nbsp; Gurugram, India
+Built multi-cloud security assessment and governance capabilities for cloud migration programs.
 
-- **Cloud Assessment Tool** &mdash; Engineered an Automated M365 and Multi-Cloud Security Assessment Tool against NIST and CIS frameworks, reducing manual effort by 78% and improving risk identification accuracy by 35%
-- **IAM Automation** &mdash; Overhauled identity and access management for PaaS databases and Kubernetes namespaces by automating Azure AD group-to-RBAC mappings
-- **Zero Trust Architecture** &mdash; Architected and deployed Zero Trust security with Entra ID governance, RBAC, identity lifecycle management, and conditional access policies
-- **Compliance Framework** &mdash; Established industry standards and compliance framework including Cloud Governance processes, SOPs, and RACI matrix for clients migrating to the cloud
+- Engineered a multi-cloud security assessment capability against NIST and CIS frameworks
+- Defined cloud governance processes, operating procedures, and RACI models
+
+### Deloitte &mdash; Advisory Associate Solution Advisor
+`Jun 2022 - Jun 2023`
+
+Focused on identity modernization, controls assessment, and access automation across Azure platforms.
+
+- Automated IAM for PaaS databases and Kubernetes namespaces through Azure AD group-to-role mappings
+- Performed Azure controls assessments against CIS 1.5 and Azure Security Benchmark v3
+- Supported client application migration to Azure Active Directory
+
+### Deloitte &mdash; Advisory Analyst
+`Aug 2020 - Jun 2022`
+
+Delivered Azure automation, ETL reporting, tenant assessment tooling, and resource security controls.
+
+- Built ETL workflows with Azure services powering Power BI dashboards
+- Developed a dynamic Azure assessment tool for tenant-level security configuration gaps
+- Implemented automation to keep Azure resources aligned with required security baselines
 
 ---
 
 ## Internships
 
 <details>
-<summary><b>IIT Bombay</b> &mdash; Azure Architect Intern <code>Jul - Aug 2020</code></summary>
+<summary><b>Indian Institute of Technology, Bombay</b> &mdash; Azure Architect <code>Jul - Sep 2020</code></summary>
 <br>
 
-Designed and deployed cloud solutions for IIT-incubated startups:
-- Architected & deployed JITSI/BBB video conferencing on Azure
-- Built SSO proof-of-concept for IIT Bombay applications
-- Implemented CDN & storage account integrations for Lokavidya apps
-- Managed VM and Web App deployments to Azure
+Designed Azure-hosted collaboration and SSO solutions for IIT Bombay use cases:
+- Designed a video conferencing platform on Azure using Jitsi and BigBlueButton with VMSS, App Service, Storage Account, and Cosmos DB
+- Created secure SSO API architecture using Azure App Service, Redis Cache, and Application Gateway
+- Implemented CDN capabilities for deployed storage accounts
 </details>
 
 <details>
-<summary><b>Deloitte India (Offices of the US)</b> &mdash; Advisory Analyst Intern <code>Jan - Apr 2020</code></summary>
+<summary><b>Deloitte</b> &mdash; Cyber Security Advisor <code>Jan - Apr 2020</code></summary>
 <br>
 
-Python & C# automation development:
-- Built Azure resource security configuration automation tool
-- Developed PoC for workload migration to comply with China data regulations
+Built Azure security and compliance automation:
+- Created ETL workflows with Azure Synapse and Azure SQL Server for Power BI reporting
+- Engineered an Azure DevOps extension to pre-scan Terraform templates for compliance and security issues
+- Developed a proof of concept for workload migration aligned to China's data regulations
 </details>
 
 <details>
-<summary><b>Delhi Government (AAP)</b> &mdash; Django Backend Intern <code>Jun - Aug 2019</code></summary>
+<summary><b>Aam Aadmi Party</b> &mdash; Intern <code>Jun - Aug 2019</code></summary>
 <br>
 
-- Built social media scraping tool aggregating complaints from Facebook, WhatsApp & Twitter
-- Developed backend models and database management for internal systems
+- Built a social media scraping tool across Facebook, WhatsApp & Twitter for complaint analytics and Power BI reporting
+- Created a preprocessing approach for bulk record updates using binning and partitioning
 </details>
 
 <details>
-<summary><b>HPCL-Mittal Energy</b> &mdash; SAP HANA/ABAP Intern <code>Apr - Jul 2018</code></summary>
+<summary><b>HPCL-Mittal Energy Limited</b> &mdash; Intern <code>Apr - Jul 2018</code></summary>
 <br>
 
-- Developed the Product Management module in SAP
-- Gained hands-on experience with Industry 4.0 infrastructure and ERP systems
+- Supported deployment of SAP HANA and SAP BTP on Azure with customized modules aligned to organizational requirements
 </details>
+
+---
+
+## Certifications
+
+| Cloud                                                                                                              | Name                                                            | Exam Code | Certificate Number | Date of Achievement |
+| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- | --------- | ------------------ | ------------------- |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Security Engineer Associate**      | AZ-500    | H736-2347          | Mar 28, 2021        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Developer Associate**              | AZ-204    | H717-3092          | Mar 13, 2021        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Solutions Architect Expert**       | AZ-304    | H693-3978          | Feb 21, 2021        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: DevOps Engineer Expert**                 | AZ-400    | H813-4148          | May 16, 2021        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure IoT Developer Specialty**          | AZ-220    | I236-9227          | Apr 22, 2022        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Database Administrator Associate** | DP-300    | I094-4717          | Dec 29, 2021        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Data Engineer Associate**          | DP-203    | I006-3134          | Oct 24, 2021        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Network Engineer Associate**       | AZ-700    | I483-3372          | Nov 12, 2022        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure AI Fundamentals**                  | AI-900    | H939-7238          | Aug 14, 2021        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Data Fundamentals**                | DP-900    | H752-4066          | Apr 11, 2021        |
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Fundamentals**                     | AZ-900    | H628-2974          | Jan 3, 2021         |
 
 ---
 
