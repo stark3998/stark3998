@@ -37,7 +37,7 @@
 | Degree | Institution | Period | GPA |
 |--------|-------------|--------|-----|
 | **M.S. Computer Science** | University of California, Irvine | Sep 2023 – Dec 2024 | 4.0 |
-| **B.Tech Computer Science & Engineering** | Vellore Institute of Technology | Jul 2016 – Jun 2020 | — |
+| **B.Tech Computer Science & Engineering** | Vellore Institute of Technology | Jul 2016 – Jun 2020 | 3.58 |
 
 ---
 
@@ -119,8 +119,9 @@ Built agentic workflows to reduce manual communication overhead across active cl
 
 ## Experience
 
-### Deloitte &mdash; Cloud Security Senior Consultant
-`Jan 2025 - Present`
+### Deloitte &mdash; Aug 2020 - Present · 5 roles
+
+> **Engineering Manager 2** `Jun 2026 - Present` · 📍 Seattle, WA ⬆️ Promoted
 
 Leading identity modernization, enterprise AI security governance, and cloud control engineering across Microsoft Entra, Azure, and agentic platforms.
 
@@ -134,35 +135,21 @@ Leading identity modernization, enterprise AI security governance, and cloud con
 - **Agentic Solutions** &mdash; Deployed automated client communication and project coordination workflows across Teams and Outlook
 - **Security Assessments** &mdash; Produced gap assessments aligned to CIS, MCSB, and CISA with prioritized remediation roadmaps
 
-### UC Irvine &mdash; Data and Technology Fellow
-`Jan 2024 - Dec 2024`
-
-Built an Apple Vision OS application enabling immersive remote development with SSH and VS Code Server.
-
-- Built a Vision OS application with secure SSH connectivity to VS Code Servers in an immersive environment
-- Designed SwiftUI experience balancing usability, responsiveness, and visual clarity
-- Integrated SSH libraries with end-to-end testing for connection reliability
-
-### ZS &mdash; Business Technology Solutions Associate Consultant
-`Jun 2024 - Aug 2024`
-
-Designed Azure data engineering foundations for scalable ETL, analytics, governance, and secrets management.
-
-- Converted 3,000 Parquet tables to Delta tables using Apache Spark and Databricks, reducing cluster run time by 14%
-- Built a custom Docker image for Databricks clusters with preinstalled packages
-- Established Azure Data Lake foundations and built Azure Data Factory pipelines
-- Implemented Unity Catalog and Azure Key Vault for governance and secrets management
-
-### Deloitte &mdash; Advisory Solution Advisor
-`Jun 2023 - Sep 2023`
+> **Cloud Security Senior Consultant** `Jan 2025 - Jun 2026` · 📍 Seattle, WA ⬆️ Promoted
 
 Built multi-cloud security assessment and governance capabilities for cloud migration programs.
 
 - Engineered a multi-cloud security assessment capability against NIST and CIS frameworks
 - Defined cloud governance processes, operating procedures, and RACI models
 
-### Deloitte &mdash; Advisory Associate Solution Advisor
-`Jun 2022 - Jun 2023`
+> **Advisory Solution Advisor** `Jun 2023 - Dec 2024` · 📍 Gurugram, India ⬆️ Promoted
+
+Drove organizational IAM strategy development and led tabletop exercises for Microsoft Sentinel real-time alert response.
+
+- Built organizational IAM strategy frameworks to align identity governance with enterprise security objectives
+- Led tabletop exercises for Microsoft Sentinel real-time alerts, improving incident response readiness and team coordination
+
+> **Advisory Associate Solution Advisor** `Jun 2022 - Jun 2023` · 📍 Gurugram, India ⬆️ Promoted
 
 Focused on identity modernization, controls assessment, and access automation across Azure platforms.
 
@@ -170,8 +157,7 @@ Focused on identity modernization, controls assessment, and access automation ac
 - Performed Azure controls assessments against CIS 1.5 and Azure Security Benchmark v3
 - Supported client application migration to Azure Active Directory
 
-### Deloitte &mdash; Advisory Analyst
-`Aug 2020 - Jun 2022`
+> **Advisory Analyst** `Aug 2020 - Jun 2022` · 📍 Hyderabad, India
 
 Delivered Azure automation, ETL reporting, tenant assessment tooling, and resource security controls.
 
@@ -181,20 +167,31 @@ Delivered Azure automation, ETL reporting, tenant assessment tooling, and resour
 
 ---
 
+### UC Irvine &mdash; Data and Technology Fellow
+`Jan 2024 - Dec 2024` · 📍 Irvine, CA
+
+Built an Apple Vision OS application enabling immersive remote development with SSH and VS Code Server.
+
+- Built a Vision OS application with secure SSH connectivity to VS Code Servers in an immersive environment
+- Designed SwiftUI experience balancing usability, responsiveness, and visual clarity
+- Integrated SSH libraries with end-to-end testing for connection reliability
+
+### ZS &mdash; Business Technology Solutions Associate Consultant
+`Jun 2024 - Aug 2024` · 📍 Philadelphia, PA
+
+Designed Azure data engineering foundations for scalable ETL, analytics, governance, and secrets management.
+
+- Converted 3,000 Parquet tables to Delta tables using Apache Spark and Databricks, reducing cluster run time by 14%
+- Built a custom Docker image for Databricks clusters with preinstalled packages
+- Established Azure Data Lake foundations and built Azure Data Factory pipelines
+- Implemented Unity Catalog and Azure Key Vault for governance and secrets management
+
+---
+
 ## Internships
 
 <details>
-<summary><b>Indian Institute of Technology, Bombay</b> &mdash; Azure Architect <code>Jul - Sep 2020</code></summary>
-<br>
-
-Designed Azure-hosted collaboration and SSO solutions for IIT Bombay use cases:
-- Designed a video conferencing platform on Azure using Jitsi and BigBlueButton with VMSS, App Service, Storage Account, and Cosmos DB
-- Created secure SSO API architecture using Azure App Service, Redis Cache, and Application Gateway
-- Implemented CDN capabilities for deployed storage accounts
-</details>
-
-<details>
-<summary><b>Deloitte</b> &mdash; Cyber Security Advisor <code>Jan - Apr 2020</code></summary>
+<summary><b>Deloitte</b> &mdash; Cyber Security Advisor <code>Jan - Apr 2020</code> · 📍 Hyderabad, India</summary>
 <br>
 
 Built Azure security and compliance automation:
@@ -204,7 +201,17 @@ Built Azure security and compliance automation:
 </details>
 
 <details>
-<summary><b>Aam Aadmi Party</b> &mdash; Intern <code>Jun - Aug 2019</code></summary>
+<summary><b>Indian Institute of Technology, Bombay</b> &mdash; Azure Architect <code>Jul - Sep 2020</code> · 📍 Mumbai, India</summary>
+<br>
+
+Designed Azure-hosted collaboration and SSO solutions for IIT Bombay use cases:
+- Designed a video conferencing platform on Azure using Jitsi and BigBlueButton with VMSS, App Service, Storage Account, and Cosmos DB
+- Created secure SSO API architecture using Azure App Service, Redis Cache, and Application Gateway
+- Implemented CDN capabilities for deployed storage accounts
+</details>
+
+<details>
+<summary><b>Aam Aadmi Party</b> &mdash; Intern <code>Jun - Aug 2019</code> · 📍 New Delhi, India</summary>
 <br>
 
 - Built a social media scraping tool across Facebook, WhatsApp & Twitter for complaint analytics and Power BI reporting
@@ -212,7 +219,7 @@ Built Azure security and compliance automation:
 </details>
 
 <details>
-<summary><b>HPCL-Mittal Energy Limited</b> &mdash; Intern <code>Apr - Jul 2018</code></summary>
+<summary><b>HPCL-Mittal Energy Limited</b> &mdash; Intern <code>Apr - Jul 2018</code> · 📍 Punjab, India</summary>
 <br>
 
 - Supported deployment of SAP HANA and SAP BTP on Azure with customized modules aligned to organizational requirements
