@@ -4,7 +4,7 @@
 
   # Jatin Madan
 
-  **Cloud Security Senior Consultant | Enterprise AI Security & Identity Governance | 11x Microsoft Certified**
+  **Engineering Manager 2 | Enterprise AI Security & Identity Governance | 11x Microsoft Certified**
 
   Leading Entra ID modernization, enterprise AI security governance, and agentic solution delivery across Azure, Copilot Studio, Microsoft Foundry, and hybrid identity programs at Deloitte.
 
